@@ -40,6 +40,12 @@ A curated collection of my completed Kaggle Learn courses, including tutorials, 
 
 ---
 
+### 🧠 Deep Learning  
+- **Intro to Deep Learning**  
+  [Tutorial](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/12_Intro-to-Deep-Learning/tutorial) • [Exercise](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/12_Intro-to-Deep-Learning/exercise) • [Certificate](https://github.com/parveen-ml/learning-path/blob/main/kaggle_courses/12_Intro-to-Deep-Learning/Parveen_kashyap-Intro_to_Deep_Learning.png)
+
+---
+
 ### 🧮 SQL & Databases
 - **Intro to SQL**  
   [Tutorial](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/04_Intro_to_sql/Tutorial) • [Exercise](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/04_Intro_to_sql/Exercise) • [Certificate](https://github.com/parveen-ml/learning-path/blob/main/kaggle_courses/04_Intro_to_sql/Certificate/Parveen%20kashyap%20-%20Intro%20to%20SQL.png)
