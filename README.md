@@ -44,7 +44,7 @@ A curated collection of my completed Kaggle Learn courses, including tutorials, 
 - **Intro to Deep Learning**  
   [Tutorial](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/12_Intro-to-Deep-Learning/tutorial) • [Exercise](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/12_Intro-to-Deep-Learning/exercise) • [Certificate](https://github.com/parveen-ml/learning-path/blob/main/kaggle_courses/12_Intro-to-Deep-Learning/Parveen_kashyap-Intro_to_Deep_Learning.png)
 
-  - **Computer Vision**  
+- **Computer Vision**  
   [Tutorial](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/13_ComputerVision/tutorials) • [Exercise](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/13_ComputerVision/exercises) • [Certificate](https://github.com/parveen-ml/learning-path/blob/main/kaggle_courses/13_ComputerVision/Parveenkashyap_ComputerVision.png)
 
 ---
