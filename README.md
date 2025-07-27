@@ -38,6 +38,9 @@ A curated collection of my completed Kaggle Learn courses, including tutorials, 
 - **Machine Learning Explainability**  
   [Tutorial](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/11_Machine_Learning_Explainability/tutorial) • [Exercise](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/11_Machine_Learning_Explainability/exercise) • [Certificate](https://github.com/parveen-ml/learning-path/blob/main/kaggle_courses/11_Machine_Learning_Explainability/Parveen_kashyap_Machine_Learning_Explainability.png)
 
+- **Time Series**  
+  [Tutorial](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/14_TimeSeries/tutorial) • [Exercise](https://github.com/parveen-ml/learning-path/tree/main/kaggle_courses/14_TimeSeries/exercise) • [Certificate](https://github.com/parveen-ml/learning-path/blob/main/kaggle_courses/14_TimeSeries/Time_Series.png)
+  
 ---
 
 ### 🧠 Deep Learning  
